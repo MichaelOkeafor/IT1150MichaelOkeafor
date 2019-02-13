@@ -1,5 +1,18 @@
 /* The purpose of this file is to practice basic CSS syntax and link the CSS file to the HTML file */
 
 body {
-  background-color: lightblue;
+  background-color: rgb(59,17,40);
+}
+h1 {
+    color: white;
+    margin-left: 625px;
+}
+img {
+    margin-left: 400px;
+}
+
+p {
+    margin-left: 550px
+
+   
 }
